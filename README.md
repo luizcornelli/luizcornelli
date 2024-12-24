@@ -3,7 +3,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,angular,aws,git,gitlab,vscode,postman,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,docker,css,angular,aws,git,gitlab,vscode,postman,eclipse)](https://skillicons.dev)
 
 ### Metrics
 🎯 Goal: #100DaysOfCode
