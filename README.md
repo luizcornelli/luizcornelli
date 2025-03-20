@@ -1,7 +1,12 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <div align="center">
-<h1>Hello Guys! 🤓</h1>
+<h1>Olá! 🤓</h1>
 </div>
+
+###
 
 <h2>Liguagens e Ferramentas:</h2>
 
@@ -17,8 +22,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcornelli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcornelli&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
  <div>
- 
- ### Where to find me
+ <br/>
+   
  <div> 
    <a href="mailto:seuemailaqui@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
